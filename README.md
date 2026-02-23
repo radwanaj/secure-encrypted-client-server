@@ -19,14 +19,6 @@ This project implements a secure TCP client-server messaging system in Python us
 
 All messages are framed using a 4-byte big-endian length header to properly handle TCP streaming.
 
-## Project Structure
-AES_PROJECT/
-├── client.py
-├── server.py
-├── crypto_utils.py
-├── requirements.txt
-└── README.md
-
 ## Installation
 Make sure Python 3.10+ is installed.
 
