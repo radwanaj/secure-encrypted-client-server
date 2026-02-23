@@ -62,5 +62,3 @@ Built to understand:
 - TCP framing design
 - Secure protocol construction fundamentals
 
-Author: Radwan  
-Computer Science Student# secure-encrypted-client-server
